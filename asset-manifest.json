@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/preety-webpage/static/css/main.289f5adb.css",
+    "main.css": "/preety-webpage/static/css/main.cf86ac6b.css",
     "main.js": "/preety-webpage/static/js/main.2a7f0f4a.js",
     "static/js/787.fb771931.chunk.js": "/preety-webpage/static/js/787.fb771931.chunk.js",
     "static/media/Screenshot 2024-10-27 205343.png": "/preety-webpage/static/media/Screenshot 2024-10-27 205343.e656081a7702ff8c9530.png",
@@ -29,12 +29,12 @@
     "index.html": "/preety-webpage/index.html",
     "static/media/nav-icon1.svg": "/preety-webpage/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "static/media/nav-icon3.svg": "/preety-webpage/static/media/nav-icon3.cc4b9594be65d7fcdfc3bc5741e2752f.svg",
-    "main.289f5adb.css.map": "/preety-webpage/static/css/main.289f5adb.css.map",
+    "main.cf86ac6b.css.map": "/preety-webpage/static/css/main.cf86ac6b.css.map",
     "main.2a7f0f4a.js.map": "/preety-webpage/static/js/main.2a7f0f4a.js.map",
     "787.fb771931.chunk.js.map": "/preety-webpage/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.289f5adb.css",
+    "static/css/main.cf86ac6b.css",
     "static/js/main.2a7f0f4a.js"
   ]
 }
